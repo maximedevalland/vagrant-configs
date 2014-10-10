@@ -11,7 +11,7 @@ mkdir ~/vagrant
 ```
 mkdir ~/vagrant/chef-server
 ```
-* Initialize vagrant in this directory
+* Initialize vagrant in its directory
 ```
 cd ~/vagrant/chef-server
 vagrant init
