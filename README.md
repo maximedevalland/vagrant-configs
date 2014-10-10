@@ -1,0 +1,4 @@
+vagrant-configs
+===============
+
+Some Vagrantfile
