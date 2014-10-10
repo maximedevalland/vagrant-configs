@@ -46,3 +46,4 @@ config.vm.provision :chef_solo do |chef|
   end
 
 end
+
