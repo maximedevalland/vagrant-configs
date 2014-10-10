@@ -1,7 +1,5 @@
-vagrant-configs
-===============
-
 Installation
+------------
 
 * Download Vagrant from
 https://www.vagrantup.com/downloads.html
