@@ -1,7 +1,7 @@
 How Vagrant works ?
 -------------------
 Vagrant is like an enhanced command line interface for VirtualBox.
-You have a vagrant directory for each of your VMs containing a configuration File. You will need to run all your vagrant commands from this directory.
+You have a vagrant directory for each of your VMs containing a configuration File. You will need to run all your vagrant commands from this directory. This directory will only contain the configuration. VMs will be located in your VirtualBox directory.
 The magic happens when you use chef-client in your Vagrantfile to install packages automatically in your VM.
 
 Make sure you have installed Virtualbox : https://www.virtualbox.org/wiki/Downloads
